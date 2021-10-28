@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Epoxy Resin Mix Calculator</string>
+
+
+    <string name="add_resin_dialog">Add Resin</string>
+
+
+
+
+    <string name="quick_mix_dialog">Quick Mix enter ratio</string>
+    <string name="quick_mix_dialog_add">ADD</string>
+    <string name="quick_mix_dialog_close">Close</string>
+
+
+</resources>
